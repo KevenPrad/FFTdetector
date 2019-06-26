@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/asus/AndroidStudioProjects/FFTdetector/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/home/asus/.gradle/caches/transforms-2/files-2.1/fdd55b3338f982b89f067d69a4f3b2c3/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}
